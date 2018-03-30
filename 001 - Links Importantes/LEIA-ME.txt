@@ -1,0 +1,8 @@
+Curso
+https://mva.microsoft.com/pt-br/training-courses/introdu-o-programa-o-com-o-python-8360?l=jgABDjP8_1004984382
+
+Prova
+https://www.microsoft.com/pt-br/learning/exam-98-381.aspx
+
+GitHub Microsoft
+https://github.com/GeekTrainer/Introduction-Programming-Python.git
