@@ -128,9 +128,22 @@
 #    print('Nome encontrado')
 
 
-# Remover na lista de nomes
-file = open('FAMILIA.TXT','r', encoding='utf-8')
-nomes = file.read()
-if 'HERICK' in nomes:
-    nomes.remove('HERICK')
-    print('Nome removido! ')
+## Remover na lista de nomes
+#file = open('FAMILIA.TXT','r', encoding='utf-8')
+#nomes = file.read()
+#if 'HERICK' in nomes:
+#    nomes.remove('HERICK')
+#    print('Nome removido! ')
+
+# Testes antes da prova
+# Atenção, a variável precisa ser declarada e em caso de contador será necessário efetuar o incremento.
+#resposta = 0
+#while resposta != "12":
+#    resposta = input('Informe quanto é a soma de 8 + 4: ')
+#    if resposta != "12":
+#        print('Você errou!')
+#print('Parabêns, resposta correta! ')
+
+numeros = [1, 2, 3, 4, 5]
+print(numeros[-1])
+
